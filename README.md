@@ -1,2 +1,3 @@
 # outerpasta.github.io
-Public site
+<https://github.com/outerpasta>
+<outerpasta@gmail.com>
